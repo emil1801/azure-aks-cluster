@@ -1,6 +1,6 @@
 aks_config = {
-  client_id     = "205cc31b-45f7-4988-b518-10ae44155aa8"
-  client_secret = "CLANgfx9f~pXWryCP7Oty.enyTJ9EvrAGs"
+  client_id     = ""
+  client_secret = ""
   cluster_name  = "farrukh"
 
   adgroup_name                     = "AKS-cluster-admins"
